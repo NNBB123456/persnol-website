@@ -89,3 +89,13 @@ p{
 .list:hover{
     background-color:#C20114;
 }
+a{
+    text-decoration:none;
+    font-size:30px;
+}
+.article:hover{
+    color:#B8F3FF;
+}
+html{
+    scroll-behavior:smooth;
+}
